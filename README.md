@@ -30,3 +30,6 @@
 
 <p align="center">For backend I preferred to use Node, along with express, on the frontend use the Facebook lib, ReactJS, on mobile I also used React Native, along with the expo. I chose to use a non-relational bank, and at that point I chose the mongo for its great integration with the node, for animation of the home screen I used the Airbnb Lottie.
 </p>
+
+
+---
