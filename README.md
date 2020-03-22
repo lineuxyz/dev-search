@@ -2,6 +2,8 @@
   <p>Search Dev</p>
 </h1>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e5ac3515f2e8424b9189c4d9360e0b05)](https://app.codacy.com/manual/lineuxyz/dev-search?utm_source=github.com&utm_medium=referral&utm_content=lineuxyz/dev-search&utm_campaign=Badge_Grade_Dashboard)
+
 <p align="center">I made this challenge following based on the week omnistack 10, according to notes I made regarding the content. (<a href="#gear-back-end">Back-end</a>, <a href="gear-front-end">Front-end</a> and <a href="gear-mobile">Mobile</a>)</p>
 
 ---
@@ -33,3 +35,6 @@
 
 
 ---
+
+
+
