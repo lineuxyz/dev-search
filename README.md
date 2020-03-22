@@ -1,0 +1,2 @@
+# dev-search
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e5ac3515f2e8424b9189c4d9360e0b05)](https://app.codacy.com/manual/lineuxyz/dev-search?utm_source=github.com&utm_medium=referral&utm_content=lineuxyz/dev-search&utm_campaign=Badge_Grade_Dashboard)
